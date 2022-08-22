@@ -1,6 +1,8 @@
 ## Instrucciones
 
   -  Clonar repositorio.
+  
+  -  Extraer data.zip en la carpeta principal del proyecto.
 
   -  Comentar línea 96 para correr el script con la totalidad de datos. 
 
